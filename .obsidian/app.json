@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "setTimeout",
+    "setImmediate",
+    "Microtask",
+    "microtask"
+  ]
+}

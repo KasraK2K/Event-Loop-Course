@@ -1,0 +1,10 @@
+{
+  "accentColor": "#009dff",
+  "theme": "system",
+  "cssTheme": "Border",
+  "translucency": false,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "monospaceFontFamily": ""
+}
